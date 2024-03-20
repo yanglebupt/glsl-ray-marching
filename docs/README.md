@@ -1,6 +1,6 @@
 # Ray-Marching
 
-这是一种在二维平面渲染 3D 场景的一种方式，我们使用的 vscode 插件是 `glsl-canvas`
+这是一种在二维平面渲染 3D 场景的一种方式，我们使用的 vscode 插件是 `glsl-canvas`，<a href="https://yanglebupt.github.io/glsl-ray-marching/#/">文档链接</a>，需要看到最终渲染效果，需要刷新一下页面。<a href="https://yanglebupt.github.io/glsl-ray-marching/src/">效果集合</a> 可以直接在该页面查看
 
 ## 设置 uv 
 
